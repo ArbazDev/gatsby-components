@@ -1,0 +1,17 @@
+.cont{
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+    
+}
+.modal{
+    background-color:rgba(20, 20, 20, 0.664);
+}
+
+.modal-content{
+    height: 30em;
+    width: 25em;
+}
+.modal-footer{
+    color: rgb(245, 238, 238);
+}
